@@ -8,3 +8,5 @@ def dec1(func):
 def abc():
     print("Nitin")
 abc()
+
+
