@@ -7,6 +7,8 @@ def dec1(func):
 @dec1
 def abc():
     print("Nitin")
-abc()   
+abc()
+
+print(35)
 
 
