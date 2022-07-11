@@ -7,4 +7,12 @@ def dec1(func):
 @dec1
 def abc():
     print("Nitin")
+<<<<<<< HEAD
 abc()
+=======
+abc()
+
+print(35)
+
+
+>>>>>>> nitin
